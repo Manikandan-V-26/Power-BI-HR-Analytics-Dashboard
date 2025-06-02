@@ -2,6 +2,9 @@
 Designed an interactive HR dashboard in Power BI with insights on employee attrition, age, income, and job roles. Utilized Power Query for data cleaning, DAX for KPIs, and visualized key HR metrics to support strategic workforce decisions.
 
 ---
+## Dashboard Screenshot
+
+![Dashboard Screenshot]()
 
 ## Objective
 
@@ -50,9 +53,7 @@ To design and build an interactive Power BI dashboard that helps HR teams analyz
 
 ---
 
-## Dashboard Screenshot
 
-![Dashboard Screenshot](./Screenshots/Dashboard_View.png)
 
 ---
 
