@@ -4,7 +4,7 @@ Designed an interactive HR dashboard in Power BI with insights on employee attri
 ---
 ## Dashboard Screenshot
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Manikandan-V-26/Power-BI-HR-Analytics-Dashboard/blob/c49e54e733826c9fe962d1439f1b91c6ca24c564/HR%20Analytics%20Dashboard.png)
 
 ## Objective
 
