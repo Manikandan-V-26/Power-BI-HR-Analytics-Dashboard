@@ -21,13 +21,13 @@ To design and build an interactive Power BI dashboard that helps HR teams analyz
 
 ## Dashboard Features
 
-### 📌 KPIs
+###  KPIs
 - Total Employees
 - Attrition Rate
 - Average Age
 - Average Monthly Income
 
-### 📌 Visualizations
+###  Visualizations
 - Attrition by Department (Stacked Column Chart)
 - Gender Distribution (Donut Chart)
 - Education Field Breakdown (Bar Chart)
@@ -39,7 +39,7 @@ To design and build an interactive Power BI dashboard that helps HR teams analyz
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Cleaning and shaping raw HR data using Power Query
 - Designing a star schema data model with relationships
@@ -50,7 +50,7 @@ To design and build an interactive Power BI dashboard that helps HR teams analyz
 
 ---
 
-## 📈 Sample Screenshot
+## Dashboard Screenshot
 
 ![Dashboard Screenshot](./Screenshots/Dashboard_View.png)
 
